@@ -40,3 +40,5 @@ class Skills extends SoftwareDeveloper {
 
 ## 📫 Get in touch
 - LinkedIn - [Elivelton Repolho](https://in.linkedin.com/in/elivelton-repolho)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=EliveltonRepolho&show_icons=true&count_private=true" alt="EliveltonRepolho" width="50%"/>
