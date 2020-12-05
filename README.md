@@ -4,9 +4,9 @@ I am a Data Engineer and Java/Scala Developer. I am passionate about technologie
 
 ### Languages
 
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)]
-[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)]
-[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)]
+![Python](https://img.shields.io/badge/-Python-fff?&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
+![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
 
