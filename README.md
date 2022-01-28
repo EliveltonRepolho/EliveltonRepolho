@@ -27,14 +27,17 @@ import SoftwareDeveloper from "elivelton.repolho";
 class Bio extends SoftwareDeveloper {
   name     = "Elivelton Repolho";
   title    = "Data Engineer";
-  company  = "Serasa Experian | Remote";
+  company  = "Prediktive -> Rouse Services | Remote";
   location = "Araraquara, Sp";
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ["Java", "Scala", "Python", "JavaScript"];
-  databases  = ["PostgreSQL", "HBase", "MongoDB"];
-  frameworks = ["Apache Spark", "Spring", "Apache Camel", "VueJs", "React", "Angular"];
+  languages  = ["Java", "Scala", "Python", "JavaScript", ];
+  databases  = ["Apache HBase", "Apache Accumulo", "Big Query", "MongoDB", "PostgreSQL", ];
+  applications = ["Spring", "Apache Camel", "VueJs", "React", "Angular", ];
+  data_applications = ["Apache Airflow", "Apache Camel", "Apache Spark", ];
+  devops_cicd = ["Circle-CI", "Gitlab CI/CD", "Terraform", ];
+  clouds = ["AWS", "GCP", ]; 
 }
 ```
 
