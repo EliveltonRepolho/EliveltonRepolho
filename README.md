@@ -32,12 +32,12 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ["Java", "Scala", "Python", "JavaScript", ];
-  databases  = ["Apache HBase", "Apache Accumulo", "Big Query", "MongoDB", "PostgreSQL", ];
-  applications = ["Spring", "Apache Camel", "VueJs", "React", "Angular", ];
+  languages         = ["Java", "Scala", "Python", "JavaScript", ];
+  databases         = ["Apache HBase", "Apache Accumulo", "Big Query", "MongoDB", "PostgreSQL", ];
+  applications      = ["Spring", "Apache Camel", "VueJs", "React", "Angular", ];
   data_applications = ["Apache Airflow", "Apache Camel", "Apache Spark", ];
-  devops_cicd = ["Circle-CI", "Gitlab CI/CD", "Terraform", ];
-  clouds = ["AWS", "GCP", ]; 
+  devops_cicd       = ["Circle-CI", "Gitlab CI/CD", "Terraform", ];
+  clouds            = ["AWS", "GCP", ]; 
 }
 ```
 
